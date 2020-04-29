@@ -1,4 +1,2 @@
-
-
 echo 'there';
 echo 'hello';
